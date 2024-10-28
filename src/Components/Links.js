@@ -4,11 +4,11 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 function Links(props) {
   return (
-    <div className="links">
-      <Router>
-        <Link to={props.path}>{props.children}</Link>
-      </Router>
-    </div>
+    <Router>
+      <Link to={props.path}>
+        <div className="links">{props.children}</div>
+      </Link>
+    </Router>
   );
 }
 
