@@ -92,12 +92,14 @@ a .links {
   font-size: 1rem;
 }
 
-a:hover .links {
+a:hover .links,
+a:focus .links {
   background: var(--green);
   color: var(--grey900);
 }
 
-a:hover {
+a:hover,
+a:focus {
   text-decoration: none;
 }
 
