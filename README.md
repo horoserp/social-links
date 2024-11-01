@@ -20,7 +20,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
-The challenge was to recreate a page to display various social links from scratch. I do not have a pro account, thus I did not have access to any Figma files. I was given three screenshots of the final page: one mobile ![mobile view](./public/mobile-design.jpg), one desktop ![desktop view](./public/destkop-design.jpg) and one showing the hover state ![hover state](./public/active-states.jpg). I was supplied the color pallete.
+The challenge was to recreate a page to display various social links from scratch. I do not have a pro account, thus I did not have access to any Figma files. I was given three screenshots of the final page: one mobile, one desktop and one showing the hover state. I was supplied the color pallete.
+
+![mobile view](./public/mobile-design.jpg)
+![desktop view](./public/destkop-design.jpg)
+![hover state](./public/active-states.jpg)
 
 ### The challenge
 
