@@ -3,7 +3,7 @@ import Links from "./Components/Links";
 
 function App() {
   return (
-    <div className="container">
+    <main className="container">
       <img src="/social-links/Headshot.png" alt="My Headshot" />
       <h1>Robert Horosewski</h1>
       <h2>Nashua, New Hampshire, USA</h2>
@@ -21,7 +21,7 @@ function App() {
       <Links path="https://stackoverflow.com/users/12617284/horoserp">
         Stack Overflow
       </Links>
-    </div>
+    </main>
   );
 }
 
