@@ -16,7 +16,7 @@ function App() {
       </Links>
       <Links path="https://github.com/horoserp/">GitHub</Links>
       <Links path="https://www.frontendmentor.io/profile/horoserp">
-        Fronted Mentor
+        Frontend Mentor
       </Links>
       <Links path="https://stackoverflow.com/users/12617284/horoserp">
         Stack Overflow

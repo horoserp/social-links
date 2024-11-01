@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
-The challenge was to recreate a page to display various social links from scratch. I do not have a pro account, thus I did not have access to any Figma files. I was given three screenshots of the final page: one mobile, one desktop and one showing the hover state. I was supplied the color pallete.
+The challenge was to recreate a page to display various social links from scratch. I do not have a pro account, thus I did not have access to any Figma files. I was given three screenshots of the final page: one mobile ![](./public/mobile-design.jpg.jpg), one desktop ![](./public/desktop-design.jpg) and one showing the hover state ![](./public/active-states.jpg). I was supplied the color pallete.
 
 ### The challenge
 
